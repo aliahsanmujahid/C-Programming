@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1533767973 source:c:\users\mujahid\desktop\poi\poipoi\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1540289246 source:c:\users\mujahid\desktop\c\main.c
+	<stdio.h>
+
